@@ -55,3 +55,13 @@ Rental Table – Tracks film rentals, return dates, and rental duration.
 Staff Table – Stores staff details, including roles, emails, and login information.
 
 Store Table – Represents store details, including manager and location.
+
+
+<img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/2aabc0c6-e491-406e-98ba-748f97576d07" />
+
+<img width="975" height="458" alt="image" src="https://github.com/user-attachments/assets/c11a6d38-67b0-4976-a61e-abc504317a97" />
+
+
+<img width="975" height="597" alt="image" src="https://github.com/user-attachments/assets/6e87ec7d-e2c2-4903-b4e0-a7806a0f943c" />
+
+<img width="975" height="498" alt="image" src="https://github.com/user-attachments/assets/2d686530-fd6c-49e0-b983-14428ae12586" />
